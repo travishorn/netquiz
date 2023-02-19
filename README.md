@@ -17,7 +17,9 @@ conclusion you come to is considered a Normative Theory.
 This quiz asks questions and then shows which Normative Ethical Theory the
 answerer most aligns with.
 
-![Screenshot](screenshot.png)
+[Take the quiz!](https://netquiz-ecb002.netlify.app/)
+
+[![Screenshot](screenshot.png)](https://netquiz-ecb002.netlify.app/)
 
 ## Development
 
