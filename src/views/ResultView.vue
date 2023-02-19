@@ -27,7 +27,7 @@ const theoryNames = (ids) => {
     Theory you most align with.
   </div>
 
-  <div v-else class="flex flex-col gap-6 pt-16 lg:pt-0">
+  <div v-else class="flex flex-col gap-6">
     <div>
       <div class="text-center">
         Your normative ethical theory is

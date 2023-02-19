@@ -9,7 +9,7 @@ import { RouterView } from "vue-router";
     >
       Normative Ethical Theory Quiz
     </h1>
-    <div class="container max-w-4xl mx-auto p-4 flex flex-col gap-8">
+    <div class="container max-w-4xl mx-auto px-4 py-16 flex flex-col gap-8">
       <RouterView />
     </div>
   </div>
