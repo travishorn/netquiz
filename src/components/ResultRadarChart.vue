@@ -8,7 +8,7 @@ import {
   Filler,
 } from "chart.js";
 import { useQuizStore } from "@/stores/quiz";
-import { theories } from "../theories";
+import { theories } from "@/theories";
 
 const { quizLength } = useQuizStore();
 
@@ -22,7 +22,7 @@ const props = defineProps({
 ChartJS.register(RadialLinearScale, PointElement, LineElement, Filler);
 
 const chartData = {
-  labels: Object.keys(props.data).map((id) => theories[id].name),
+  labels: Object.keys(props.data).map((id) => theories[id].shortName),
   datasets: [
     {
       backgroundColor: "#db2777",

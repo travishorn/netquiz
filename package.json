@@ -1,7 +1,7 @@
 {
   "name": "netquiz",
-  "version": "1.0.0",
-  "description": "This quiz asks questions and then shows which Normative Ethical Theory the answerer most aligns with.",
+  "version": "1.1.0",
+  "description": "This quiz asks questions and then shows which Normative Ethical Theories the answerer most aligns with.",
   "private": true,
   "scripts": {
     "dev": "vite",

@@ -1,9 +1,5 @@
 # Normative Ethical Theory Quiz
 
-Based on the tongue-in-cheek quiz by Oliver Lugg in his video [FTL: Trolley
-Problems in Space (Video Game
-Analysis)](https://www.youtube.com/watch?v=L2HpA5u5qKc).
-
 One of the main areas of Philosophical Ethics is called Normative Ethics. Here,
 we choose the factors we value in making decisions.
 
@@ -20,6 +16,10 @@ answerer most aligns with.
 [Take the quiz!](https://netquiz-ecb002.netlify.app/)
 
 [![Screenshot](screenshot.png)](https://netquiz-ecb002.netlify.app/)
+
+The original version of this quiz was based on the tongue-in-cheek quiz by
+Oliver Lugg in his video [FTL: Trolley Problems in Space (Video Game
+Analysis)](https://www.youtube.com/watch?v=L2HpA5u5qKc).
 
 ## Development
 

@@ -34,7 +34,7 @@ const formatNames = (names) => {
       <p>{{ theory.description }}</p>
     </div>
 
-    <p>{{ theory.trolleySolution }}</p>
+    <p>{{ theory.problemNavigation }}</p>
 
     <p>
       Key proponents of {{ theory.name }} are

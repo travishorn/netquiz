@@ -18,8 +18,8 @@
   </p>
 
   <p>
-    At the end of this quiz, you'll be shown which Normative Ethical Theory you
-    most align with.
+    At the end of this quiz, you'll be shown which Normative Ethical Theories
+    you most align with.
   </p>
 
   <RouterLink

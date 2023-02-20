@@ -2,7 +2,7 @@
 import { useQuizStore } from "@/stores/quiz";
 import TheoryDescription from "@/components/TheoryDescription.vue";
 import ResultRadarChart from "@/components/ResultRadarChart.vue";
-import { theories } from "../theories";
+import { theories } from "@/theories";
 
 const quiz = useQuizStore();
 
